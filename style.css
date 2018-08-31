@@ -1,0 +1,35 @@
+body{
+    
+    background-color: skyblue;
+    
+}
+#go{
+    width: 250px;
+    height: 250px;
+    margin :30px;
+}
+
+
+#id{
+    display : inline-block;
+    vertical-align: top;
+  
+    }
+
+.gauche{
+
+    
+    background-color: rgb(184, 232, 238);
+    width : 400px;
+    padding-left: 20px;
+    margin-left: 50px;
+}
+.droit{
+    background-color: white;
+    width: 350px;
+    height:340px;
+    padding-right:20px;
+}
+.spc{
+    color: black;
+}
